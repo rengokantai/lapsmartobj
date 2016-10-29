@@ -27,3 +27,24 @@ that it gives us the ability to change the contents of an image after we've dist
 
 ##3. Smart filters
 ###1 Applying the filters
+####00:47
+Filter->blur->Motion Blur
+
+####03:01 add another fileter
+Filter->Pixelate->pointillize
+
+###2 Adjusting the effects
+Filter->Other->High pass
+
+###3 Modifying the filters’ appearance
+###4 Adding a Layer Style
+Layer->Layer style->inner glow
+
+
+###5 Smart Objects with Puppet Warp
+First, convert a layer to smart object.  
+Then, Edit->puppet wrap
+
+
+###6 Smart Objects with Perspective Warp
+First, convert a layer to smart object.  
